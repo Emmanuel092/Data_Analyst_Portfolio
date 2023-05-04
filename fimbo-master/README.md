@@ -1,3 +1,3 @@
-<img src="https://thumbs.dreamstime.com/z/abstract-analytical-background-algorithm-analyze-data-analytics-algorithms-banner-business-science-technology-quantum-203441017.jpg"/>
+<img src="https://jooinn.com/images1280_/big-data-analytics.jpg"/>
 
 This website showcases my data analyst projects,my resume s well as important links 
