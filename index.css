@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(160,160,160);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(240,235,210);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background: rgb(240,235,210);
     margin-left:-5px;
 }
 #menu {
@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(255, 50, 50);
+    color:rgb(240,235,210);
     font-size:70px;
 
 }
@@ -171,7 +171,7 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(255, 50, 50);
+    background:rgb(30, 29, 29);
     color:#fff;
     z-index:9;
     position:fixed;
@@ -227,12 +227,13 @@ body {
     cursor:pointer;
     color:rgb(255, 50, 50);
     background:#fff;
+    padding:8px 60px;
 }
 .btn_two {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:rgb(255, 50, 50);
-    background:#fff;
+    background:transparent;
+    color:#fff;
     border:3px solid #fff;
     padding:8px 40px;
     border-radius:80px;
@@ -242,6 +243,8 @@ body {
 }
 .btn_two:hover {
     cursor:pointer;
+    color:rgb(255, 50, 50);
+    background:#fff;
     padding:8px 60px;
 }
 .container form input {
@@ -303,17 +306,17 @@ body {
     height:100vh;
 }
 ::-webkit-scrollbar {
-    width:5px;
-    height:5px;
+    width:6px;
+    height:1px;
 }
 ::-webkit-scrollbar-track {
-    background: #fff; 
+    background:  rgb(55, 54, 54); 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 50, 50); 
+    background: rgb(239, 237, 237); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background:  rgb(239, 237, 237); 
 }
 ::selection {
 	color: #fff;
